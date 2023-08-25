@@ -1,0 +1,65 @@
+.container {
+    display: flex;
+    margin-left: 250px;
+    /* height: 100px; */
+    /* flex-direction: row; */
+    justify-content: space-around;
+}
+
+.logo {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 40px;
+}
+.block {
+    display: flex;
+    justify-content: space-evenly;
+    background: #b9b6b66b;
+}
+.search {
+    background-color: rgba(229, 224, 224, 0.715);
+    text-align: center;
+   
+}
+.button-group {
+    padding: 10px;
+}
+.kutu-1 {
+    background-color: #7EE5DA;
+    width: 450px;
+    height: 6em;
+    float: left;
+}
+.kutu-1-text {
+    padding-top: 3%;
+    padding-bottom: 4%;
+    text-align: center;
+}
+.kutu-2 {
+    background-color: #70CCC2;
+    width: 450px;
+    height: 6em;
+    float: left;
+}
+.kutu-2-text {
+    text-align: center;
+    padding: 4%;
+}
+.kutu-3 {
+    background-color: #27b7a7;
+    text-align: center;
+}
+.kutu-3-text {
+    padding: 8px;
+}
+.other-block{
+    margin: 0px 100px 0px 100px;
+}
+.content-block {
+    text-align: center;
+    margin-right: 1px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 1em;
+    
+    
+}
